@@ -1,0 +1,1 @@
+curl https://api.tiingo.com/tiingo/daily/GOOGL?token=833c39bad3f793e45ed7c65d5f2a5db168cc6020
